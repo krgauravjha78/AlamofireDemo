@@ -28,7 +28,6 @@ class NetworkRequest{
                 completion([jsonDict], nil)
             }
         }
-        
     }
     
 }
